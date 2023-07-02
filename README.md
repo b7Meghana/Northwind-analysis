@@ -9,8 +9,8 @@ The Northwind sample database includes 14 tables, which are represented by the r
 
 In this project, my goal was to perform an analysis of the company Northwind Traders through SQL Server. I chose to analyze some relevant topics of the specific themes below:
 
-🔹 [Orders and Sazonality](https://github.com/marianamannes/northwind-database-analysis/tree/main/orders%20and%20sazonality)
+🔹 [Orders and Sazonality](https://github.com/b7Meghana/Northwind-analysis/tree/main/order%20and%20sazonality)
 
-🔹 [Products and Categories](https://github.com/marianamannes/northwind-database-analysis/tree/main/products%20and%20categories)
+🔹 [Products and Categories](https://github.com/b7Meghana/Northwind-analysis/tree/main/products%20and%20catg)
 
-🔹 [Customers and Employees](https://github.com/marianamannes/northwind-database-analysis/tree/main/customers%20and%20employees)
+🔹 [Customers and Employees](https://github.com/b7Meghana/Northwind-analysis/tree/main/customer%20employee)
